@@ -1,0 +1,31 @@
+header {
+    overflow: hidden;
+    background-color: #a79a9a;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px;
+  }
+  
+.table{
+    display:table;         
+    width:auto;                 
+    border:2px solid  #666666;         
+   
+  }
+  .table-row{
+    display:table-row;
+    width:auto;
+  }
+  .table-col{
+    float:left;
+    display:table-column;         
+    width:200px;         
+    border:1px solid  #ccc;
+  }
+ 
+   
+  #empId {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border: 1px solid rgba(81, 203, 238, 1);
+  }
